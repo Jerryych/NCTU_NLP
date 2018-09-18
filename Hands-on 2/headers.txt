@@ -1,0 +1,9 @@
+Host: dl.opensubtitles.org
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:57.0) Gecko/20100101 Firefox/57.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-TW,zh;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.opensubtitles.org/en/subtitles/6780970/deadpool-zt
+Cookie: __cfduid=dd4fc1d7c5bfbe9965630056a805968401511262945; PHPSESSID=maWOsj4pxFS3eS6RjFeHgOFg6Sc; _ga=GA1.2.476346411.1511262950; _gid=GA1.2.471932595.1511262950; __qca=P0-1920712525-1511262955094; _gat=1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
